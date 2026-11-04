@@ -1,2 +1,2 @@
 # Important-Websites
-A curated collection of important and useful websites for developers, programmers, and tech enthusiasts with detailed explanations of their purposes, features, functionality, and step-by-step usage guides.
+A curated collection of important and useful websites for developers, programmers, and tech enthusiasts. This repository contains detailed notes about different websites, including their purposes, key features, how they work, and step-by-step guides on how to use them. A personal knowledge base and learning resource to discover, understand, and make the most of useful online tools and platforms.
